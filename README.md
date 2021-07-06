@@ -1,3 +1,3 @@
-# Welcome to My GitHubPage (felipeescallon.io)
+# felipeescallon.io
 
 Now using GitHub Pages!
