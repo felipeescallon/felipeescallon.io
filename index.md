@@ -41,7 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 -->
 # Welcome to my GitHub Page!
 
-✨_Visit my GitHub profile:_ [GitHub](https://github.com/felipeescallon)✨
+✨*Visit my GitHub profile*: [GitHub](https://github.com/felipeescallon)✨
 
 
 ## Let´s keep in touch :+1: :
