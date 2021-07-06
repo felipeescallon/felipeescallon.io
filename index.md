@@ -44,7 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ✨*Visit my GitHub profile*: [GitHub](https://github.com/felipeescallon)✨
 
 
-## Let´s keep in touch :+1: :
+## 🤝Let´s keep in touch:
 
 - [LinkedIn](https://www.linkedin.com/in/andres-felipe-escallon-portilla/?locale=en_US)
 - [Twitter](https://twitter.com/felipeescallon)
@@ -52,7 +52,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - [Instagram](https://www.instagram.com/felipeescallon/)
 
 ```
-This Webiste is still under construction...
+This Webiste is still under construction...🧑‍💻
 ```
-https://felipeescallon.github.io/felipeescallon.io/
+**Website**: [GitHub Page](https://felipeescallon.github.io/felipeescallon.io/)
 
