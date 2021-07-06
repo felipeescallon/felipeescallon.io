@@ -52,7 +52,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - [Instagram](https://www.instagram.com/felipeescallon/)
 
 ```
-This Webiste is still under construction...🧑‍💻
+This webiste is still under construction...🧑‍💻
 ```
 **Website**: [GitHubPage](https://felipeescallon.github.io/felipeescallon.io/)
 
