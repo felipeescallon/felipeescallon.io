@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+<!--
+**https://felipeescallon.github.io/felipeescallon.io/** is a ✨ _special_ ✨ GitHub Page because its `index.md` (this file) offers the chance to modify your website hosted by GitHub via markdown.
+
+Here are some ideas to get you started:
 
 You can use the [editor on GitHub](https://github.com/felipeescallon/felipeescallon.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +38,21 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
+# Welcome to my GitHub Page!
+
+✨_Visit my GitHub profile:_ [GitHub](https://github.com/felipeescallon)✨
+
+
+## Let´s keep in touch :+1: :
+
+- [LinkedIn](https://www.linkedin.com/in/andres-felipe-escallon-portilla/?locale=en_US)
+- [Twitter](https://twitter.com/felipeescallon)
+- [Facebook](http://facebook.com/felipeescallon)
+- [Instagram](https://www.instagram.com/felipeescallon/)
+
+```
+This Webiste is still under construction...
+```
+https://felipeescallon.github.io/felipeescallon.io/
+
