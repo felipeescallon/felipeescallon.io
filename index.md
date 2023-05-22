@@ -44,12 +44,23 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ✨ *Visit my GitHub profile*: [GitHub](https://github.com/felipeescallon) ✨
 
 
-## 🤝Let´s keep in touch:
+## 🤝Let´s keep in touch via social networking:
 
 - [LinkedIn](https://www.linkedin.com/in/andres-felipe-escallon-portilla/?locale=en_US)
 - [Twitter](https://twitter.com/felipeescallon)
 - [Facebook](http://facebook.com/felipeescallon)
 - [Instagram](https://www.instagram.com/felipeescallon/)
+- [YouTube Channel](https://www.youtube.com/user/pipeescallon)
+
+
+## Academic profile:
+
+- [ResearchGate](https://www.researchgate.net/profile/Andres-Escallon-Portilla)
+- [Google Scholar](https://www.linkedin.com/in/andres-felipe-escallon-portilla/?locale=en_US)
+- [Currículo Lattes](https://lattes.cnpq.br/2702625745844396)
+- [SciProfiles](https://sciprofiles.com/profile/felipeescallon)
+- [ORCiD](https://orcid.org/my-orcid?orcid=0000-0003-0452-7355)
+
 
 ```
 This webiste is still under construction...🧑‍💻
