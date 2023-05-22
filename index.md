@@ -50,7 +50,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - [Google Scholar](https://scholar.google.es/citations?user=v5UysP0AAAAJ&hl=es)
 - [Currículo Lattes](https://lattes.cnpq.br/2702625745844396)
 - [SciProfiles](https://sciprofiles.com/profile/felipeescallon)
-- [ORCiD](https://orcid.org/my-orcid?orcid=0000-0003-0452-7355)
+- [ORCiD](https://orcid.org/0000-0003-0452-7355)
 
 
 ## 🤝Let´s keep in touch via social networking:
